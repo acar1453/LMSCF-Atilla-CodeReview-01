@@ -1,16 +1,16 @@
 *{
     margin: 0;
     padding: 0;
-    
+   
 }
-
+/************************* Header ***/
 header{
     background-color: tan;
     padding: 40px;
     text-align: center;
     
 }
-
+/************************* Titel mit Logo ***/
 .logo{
     text-align: right;
     margin-top: -70px;
@@ -24,6 +24,7 @@ header{
     font-family: 'Righteous', cursive;
 }
 
+/************************* Navbar ***/
 
 .nav{
     list-style: none;
@@ -49,7 +50,7 @@ header{
     font-size: 25px;
     font-family: 'Righteous', cursive;
 }
-
+/************************* Website ***/
 .website{
     text-align: center;
     font-size: 50px;
@@ -59,6 +60,46 @@ header{
 
 .img1{
     text-align: center;
-    margin: -90px;
-    margin-top: 30px;
+    margin: 100px;
+    line-height: 50px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    
+}
+
+p{
+    font-size: 25px;
+    font-family: 'Righteous', cursive;
+    
+}
+/************************* Column ***/
+.column{
+    column-count: 2;
+    text-align: center;
+    line-height: 50px;
+    margin-bottom: 20px;
+    
+}
+
+.column1 {
+    margin-left: 100px;
+}
+
+.column2{
+
+    margin-right: 100px;
+
+}
+/************************* Footer ***/
+.logo2{
+    text-align: center;
+    margin-top: 10px;
+    background-color: tan;
+    padding: 20px;
+}
+
+
+.logo2 p{
+    margin-top: 20px;
+    margin-bottom: 10px;
 }
