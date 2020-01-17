@@ -16,11 +16,14 @@ header{
     margin-top: -70px;
 }
 .titel{
-font-size: 25px;
-font-weight: bold;
-margin-left: 260px;
-margin-top: 30px;
-text-align: left}
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 260px;
+    margin-top: 30px;
+    text-align: left;
+    font-family: 'Righteous', cursive;
+}
+
 
 .nav{
     list-style: none;
@@ -30,10 +33,6 @@ text-align: left}
     background-color: #CD3333;
     height: 50px;
     line-height: 35px;
-}
-.nav u{
-    list-style-type: none;
-    
 }
 
 .nav li{
@@ -47,6 +46,19 @@ text-align: left}
     color: white;
     text-decoration: none;
     margin-left: -40px;
-    font-size: 35px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    font-family: 'Righteous', cursive;
+}
+
+.website{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 30px;
+    font-family: 'Righteous', cursive;
+}
+
+.img1{
+    text-align: center;
+    margin: -90px;
+    margin-top: 30px;
 }
